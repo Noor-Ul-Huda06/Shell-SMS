@@ -1,11 +1,6 @@
-Great! Here's a README-style **project description** just like the one in your screenshot, but tailored to your version of the **Student Management System in Bash**:
-
-
-
 # Student-Management-System-in-Bash
 
-A Linux-based terminal application to manage student academic records, designed with separate portals for **teachers** and **students**. Built using Bash scripting as a semester project for the **Operating Systems** course at FAST University.
-
+A Linux-based terminal application to manage student academic records, designed with separate portals for **teachers** and **students**. Built using Bash scripting as a semester project for the **Operating Systems** .
 
 
 ## Features
